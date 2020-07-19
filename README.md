@@ -15,7 +15,7 @@ This is a Simple API with full CRUD functionalities. It fetches articles.
     ```
     $ git clone https://github.com/rustyblade32/ArticleAPI.git
     ```
-1. Create a database in phpmyadmin with the name "blogSite"
+1. Create a database in phpmyadmin with the name "articleapi"
 1. cd into the repository
     ```
     $ cd ArticleAPI
